@@ -1,16 +1,36 @@
-### Hi there 👋
+<!-- 🧲 Imports -->
+[Langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLevino&theme=dracula&hide=javascript&locale=pt-br
+"Top Langs"
 
-<!--
-**LucasLevino/LucasLevino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[LinkedinBdg]: https://i.stack.imgur.com/gVE0j.png 
 
-Here are some ideas to get you started:
+[Stats]: https://github-readme-stats.vercel.app/api?username=LucasLevino&theme=dracula&show_icons=true&include_all_commits=true&locale=pt-br
+"GitHub stats"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 👁 Body -->
+### Olá eu sou Lucas Levino 👋
+
+Graduando em Eng. Computação, atualmente trabalho como desenvolvedor Front-end e Mobile na Lab Metrics. 
+
+<br/>
+<div align="left">
+
+![GitHub stats][Stats]
+
+![Top Langs][Langs]
+ 
+</div>
+
+<br/>
+<br/>
+<br/>
+
+---
+
+##### Como me encontrar 📫:
+
++ Conheça meu perfil no ![][LinkedinBdg][ LinkedIn](https://www.linkedin.com/in/lucas-levino-345a53113/)
+
+
+
+
