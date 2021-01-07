@@ -15,9 +15,9 @@ Graduando em Eng. Computação, atualmente trabalho como desenvolvedor Front-end
 <br/>
 <div align="left">
  
-| | | 
-|:------- | :------- |
-| ![Top Langs][Langs] | ![GitHub stats][Stats]|
+
+>| ![Top Langs][Langs] | ![GitHub stats][Stats]|
+>|:------- | :------- |
 
 
 <!--  ![GitHub stats][Stats] -->
