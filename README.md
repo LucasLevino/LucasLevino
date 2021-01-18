@@ -18,7 +18,7 @@ Trabalho como desenvolvedor Web desde 2020, Graduando em Eng. Computação, atua
 #
 **📫 Como me encontrar**
 
-| **E-mail**  | **<lucao107@hotmail.com>** |
+| **E-mail**  | **<lucas@moveeup.com>** |
 | ------- | -------------------- |
 | **Linkedin**  | **[linkedin/lucaslevino](https://www.linkedin.com/in/lucas-levino-345a53113/)** |
 
