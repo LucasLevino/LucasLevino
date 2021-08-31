@@ -12,7 +12,7 @@ Trabalho como desenvolvedor Web desde 2020, Graduando em Eng. Computação, atua
 | ------- | -------------------- |
 
 **🌱 Atualmente estou estudando**
-- Showare
+- Shopware
 - Typo3
 - ThreeJs
 
