@@ -12,13 +12,14 @@ Trabalho como desenvolvedor Web desde 2020, Graduando em Eng. Computação, atua
 | ------- | -------------------- |
 
 **🌱 Atualmente estou estudando**
-- Flutter TDD
-- React TDD
+- Showare
+- Typo3
+- ThreeJs
 
 #
 **📫 Como me encontrar**
 
-| **E-mail**  | **<lucas@moveeup.com>** |
+| **E-mail**  | **<lucas_levino@outlook.com>** |
 | ------- | -------------------- |
 | **Linkedin**  | **[linkedin/lucaslevino](https://www.linkedin.com/in/lucas-levino-345a53113/)** |
 
